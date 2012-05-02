@@ -8,4 +8,8 @@ package pp.ppp;
  * To change this template use File | Settings | File Templates.
  */
 public interface TestClass {
+
+
+    public String s = "";
+
 }
